@@ -9,7 +9,9 @@ if (isset($_POST["adddanhmuc"])) {
 }
 ?>
 <div class="card card-primary">
+
     <div class="card-header">
+        
         <h3 class="card-title">Thêm danh mục</h3>
     </div>
     <!-- /.card-header -->

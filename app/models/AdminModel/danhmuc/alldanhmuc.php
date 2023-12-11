@@ -9,6 +9,7 @@
 <body>
     <table class="table">
     <thead>
+
         <tr>
             <th scope="col">Mã Danh Mục</th>
             <th scope="col">Tên Danh Mục Khóa Học</th>
@@ -16,6 +17,7 @@
             <th scope="col">Trạng thái</th>
             <th scope="col">Thao tác</th>
         </tr>
+        
     </thead>
     <tbody>
         <?php
